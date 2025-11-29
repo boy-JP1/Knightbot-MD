@@ -1,7 +1,7 @@
 {
-  "name": "knightbot",
+  "name": "FOOD FOR MAN",
   "version": "1.0.0",
-  "description": "WhatsApp Bot",
+  "description": "Food for man rules",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
